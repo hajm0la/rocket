@@ -2,7 +2,6 @@
 title: "About"
 permalink: "/about/"
 layout: page
-sitemap: true
 ---
 
 ## Installation
