@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: "hajm0la.github.io"
+permalink: "/about"
 layout: page
 sitemap: true
 ---
