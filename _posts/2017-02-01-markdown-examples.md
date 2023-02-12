@@ -7,7 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
 
-![Trip-2](https://hajm0la.github.io/rocket/assets/img/IMG-20230212-WA0012.jpg
+![Trip-2](https://hajm0la.github.io/rocket/assets/img/IMG-20230212-WA0012.jpg)
 
 ## Heading Two (h2)
 
